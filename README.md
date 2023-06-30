@@ -12,3 +12,7 @@ In this workshop we went through the entire machine learning/data analytics work
 8. Feature Importance
 
 DataSoc's Education Portfolio will have more workshops like this coming up, so stay tuned! 
+
+Credits:
+- Will, Matt, Noah: Co-Directors + Exec
+- Arya, Meet, Faris, Joceline: Jupyter Notebook Code
